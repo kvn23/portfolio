@@ -1,4 +1,4 @@
-# Project Showcase
+# Project Portfolio
 
 This repository showcases some projects (or parts of them) I worked on during the past years.
 

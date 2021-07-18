@@ -28,9 +28,9 @@ Main libraries: Scikit-Learn, SHAP, LIME, Anchors (alibi)
 These notebooks were part of my Master's thesis on Explainable Artificial Intelligence. Foremost,they served as working examples for a user survey, in which participants were asked to rate different representations of ML result explanations. Additonally, they were used to benchmark the implemented ML algorithms and explanation methods. In the first coding steps, these three individual datasets and the differen XAI libraries were a good training for data cleaning and preprogressing skills using Pandas, different scalers, etc.. Subsequently, I was also able to practice the implementation of different ML algorithms for tabular data. Overall, it was a tremendous learning opportunity to get a deeper understanding of explanation methods and figuring out libraries to implement them on working projects.
 
 Dataset(s):
-- Iris Data Set (https://archive.ics.uci.edu/ml/datasets/iris)
-- Statlog (German Credit Data) Data Set (https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
-- Heart Disease Data Set (https://archive.ics.uci.edu/ml/datasets/Heart+Disease)
+- [Iris Data Set](https://archive.ics.uci.edu/ml/datasets/iris)
+- [Statlog (German Credit Data) Data Set](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
+- [Heart Disease Data Set](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)
 
 Model Purpose:
 - Classify iris species / credit risk of loan applicants / patients in risk of heart disease

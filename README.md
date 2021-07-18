@@ -36,7 +36,7 @@ Model Purpose:
 
 Main libraries: Scikit-Learn, CatBoost, SHAP, LIME, Anchors (alibi), Counterfactual Instances (alibi)
 
-**Jupyter Notebooks:
+**Jupyter Notebooks:**
 - **[Explaining Iris Species Predictions with *Anchors*, *LIME* and *Counterfactual Instances*][2]**
 - **[Explaining Credit Risk Predictions with *Anchors* and *LIME*][3]**
 - **[Explaining Credit Risk Predictions with *Counterfactual Instances*][4]**

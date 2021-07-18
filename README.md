@@ -8,10 +8,10 @@ This repository showcases some projects (or parts of them) I worked on during th
 
 This was a small project during my employment as a research assistant at the University of Würzburg under supervision of a PhD student. The main task was to find a dataset related to AI-assisted maintenance or quality assurance in manufacturing, which was then used to develop a classifier model with XAI augmentations. The overall purpose to the PhD student was to have a working example model, on which a user experiment can be built upon. The research purpose was to find out, how the information from the XAI augmentations impacts user confidence and performance of an AI driven decision support system. For me, this project offered an opportunity to learn about and implement basic explanations for machine learning results, such as SHAP and LIME. Furthermore it gave me a broader perspective on the utility of simple ML models in smart manufacturing, as well as fresh knowledge about the conversion of intially unstructured data such as images into structured tabular data.
 
-**Dataset(s):
+**Dataset(s):**
 - [Steel Plates Faults Data Set](http://archive.ics.uci.edu/ml/datasets/steel+plates+faults)
 
-**Model Purpose:
+**Model Purpose:**
 - Classify different steel surface defects
 - Offer explanations for classifications
 
@@ -27,12 +27,12 @@ This was a small project during my employment as a research assistant at the Uni
 
 These notebooks were part of my Master's thesis on Explainable Artificial Intelligence. Foremost,they served as working examples for a user survey, in which participants were asked to rate different representations of ML result explanations. Additonally, they were used to benchmark the implemented ML algorithms and explanation methods. In the first coding steps, these three individual datasets and the differen XAI libraries were a good training for data cleaning and preprogressing skills using Pandas, different scalers, etc.. Subsequently, I was also able to practice the implementation of different ML algorithms for tabular data. Overall, it was a tremendous learning opportunity to get a deeper understanding of explanation methods and figuring out libraries to implement them on working projects.
 
-**Dataset(s):
+**Dataset(s):**
 - [Iris Data Set](https://archive.ics.uci.edu/ml/datasets/iris)
 - [Statlog (German Credit Data) Data Set](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
 - [Heart Disease Data Set](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)
 
-**Model Purpose:
+**Model Purpose:**
 - Classify iris species / credit risk of loan applicants / patients in risk of heart disease
 - Utilize different methods to explain result outcomes
 
@@ -57,16 +57,16 @@ These notebooks were part of my Master's thesis on Explainable Artificial Intell
 
 This was one of the first datasets and machine learning projects I personally ever coded on. For a seminar thesis, my supervisor threw me in at the deep end by benchmarking different algorithms on this dataset. At the beginning of this project I barely knew how to code in Python, let alone building machine learning models. My first steps were figuring out simple Pandas operations and data preprocessing, followed by the utlization of gridsearch for hyperparameter tuning. By the end, I had learned how to implement deep learning models with Tensorflow/Keras and had tried out multiple Scikit-Learn models. Overall, this project had given me a first insight into CNN and LSTM models, as well as handling time series data. Regarding the models, I settled for the implementation of a CNN as proposed by [Xiang Li (2018)](https://www.sciencedirect.com/science/article/abs/pii/S0951832017307779) for utilizing some deep learning. Furthermore, I also tried simpler implementations using some standard Scikit-Learn algorithms, such as decision trees, support vector machines, and MLPs.
 
-Dataset(s):
+**Dataset(s):**
 - [Turbofan Engine Degradation Simulation Data Set](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/) (FD001)
 
-Model Purpose:
+**Model Purpose:**
 - Predict Remaining Useful Life of a Turbofan jet engines
 
-Main libraries: Tensorflow, Keras, Scikit-Learn
+**Main libraries:** Tensorflow, Keras, Scikit-Learn
 
 **Jupyter Notebooks:**
-- **[Predicting Remaining Useful Life of a Turbofan Engine with a Tensorflow *CNN*](https://nbviewer.jupyter.org/github/kvn23/portfolio/blob/main/Turbofan/Turbofan%20RUL%20Prediction.ipynb)
-- **[Predicting Remaining Useful Life of a Turbofan Engine with Scikit-Learn *Regressors*](https://nbviewer.jupyter.org/github/kvn23/portfolio/blob/main/Turbofan/FD001_scikit_regressors.ipynb) (NB not executed due to very long computing time)
+- **[Predicting Remaining Useful Life of a Turbofan Engine with a Tensorflow *CNN*](https://nbviewer.jupyter.org/github/kvn23/portfolio/blob/main/Turbofan/Turbofan%20RUL%20Prediction.ipynb)**
+- **[Predicting Remaining Useful Life of a Turbofan Engine with Scikit-Learn *Regressors*](https://nbviewer.jupyter.org/github/kvn23/portfolio/blob/main/Turbofan/FD001_scikit_regressors.ipynb)** (NB not executed due to very long computing time)
 ---
 

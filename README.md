@@ -63,7 +63,7 @@ Dataset(s):
 Model Purpose:
 - Predict Remaining Useful Life of a Jet Engine
 
-Main libraries: Tensorflow, Keras
+Main libraries: Tensorflow, Keras, Scikit-Learn
 
 ---
 

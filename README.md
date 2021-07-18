@@ -21,7 +21,7 @@ Main libraries: Scikit-Learn, SHAP, LIME, Anchors (alibi)
 ### 2 Iris / Credit Risk / Heart Disease Classification
 
 Project Summary:
-These notebooks were part of my Master's thesis on Explainable Artificial Intelligence. They served as working examples for a user survey, in which participants were asked to rate different representations of ML result explanations.
+These notebooks were part of my Master's thesis on Explainable Artificial Intelligence. Foremost,they served as working examples for a user survey, in which participants were asked to rate different representations of ML result explanations. Additonally, they were used to benchmark the implemented ML algorithms and explanation methods. In the first coding steps, these three individual datasets and the differen XAI libraries were a good training for data cleaning and preprogressing skills using Pandas, different scalers, etc.. Subsequently, I was also able to practice the implementation of different ML algorithms for tabular data. Overall, it was a tremendous learning opportunity to get a deeper understanding of explanation methods and figuring out libraries to implement them on working projects.
 
 Dataset(s):
 - Iris Data Set (https://archive.ics.uci.edu/ml/datasets/iris)
@@ -34,17 +34,17 @@ Model Purpose:
 
 Main libraries: Scikit-Learn, CatBoost, SHAP, LIME, Anchors (alibi), Counterfactual Instances (alibi)
 
-**Open Jupyter Notebooks:**
-- (**Explaining Iris Species Predictions with Anchors, LIME and Counterfactual Instances**)[]
-- (**Explaining Credit Risk Predictions with Anchors and LIME**)[]
-- (**Explaining Credit Risk Predictions with Counterfactual Instances**)[]
-- (**Explaining Heart Disease Predictions with Anchors and LIME**)[]
-- (**Explaining Heart Disease Predictions with Counterfactual Instances**)[]
+**Jupyter Notebooks:**
+- (Explaining Iris Species Predictions with *Anchors*, *LIME* and *Counterfactual Instances*)[]
+- (Explaining Credit Risk Predictions with *Anchors* and *LIME*)[]
+- (Explaining Credit Risk Predictions with *Counterfactual Instances*)[]
+- (Explaining Heart Disease Predictions with *Anchors* and *LIME*)[]
+- (Explaining Heart Disease Predictions with *Counterfactual Instances*)[]
 
 ### 3  Turbofan Engine RUL prediction
 
 Project Summary:
-This was one of the first datasets and machine learning projects I personally ever coded on. For a seminar thesis, my supervisor threw me in at the deep end by benchmarking different algorithms on this dataset. At the beginning of this project I barely knew how to code in Python, let alone building machine learning models. By the end, this project had gave me a glimpse into CNN and LSTM models, as well as handling time series data. In this case i settled for the implementation of a CNN as proposed by [Xiang Li (2018)](https://www.sciencedirect.com/science/article/abs/pii/S0951832017307779).
+This was one of the first datasets and machine learning projects I personally ever coded on. For a seminar thesis, my supervisor threw me in at the deep end by benchmarking different algorithms on this dataset. At the beginning of this project I barely knew how to code in Python, let alone building machine learning models. By the end, this project had gave me a glimpse into CNN and LSTM models, as well as handling time series data. In this, case i settled for the implementation of a CNN as proposed by [Xiang Li (2018)](https://www.sciencedirect.com/science/article/abs/pii/S0951832017307779).
 
 Dataset(s):
 - Turbofan Engine Degradation Simulation Data Set

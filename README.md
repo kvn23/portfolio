@@ -18,6 +18,7 @@ Main libraries: Scikit-Learn, SHAP, LIME, Anchors (alibi)
 
 Jupyter Notebook:
 - [Classifying Steel Surface Defects with Explanations][1]
+
 [1]:https://nbviewer.jupyter.org/github/kvn23/portfolio/blob/main/Steel%20Surface%20Defect%20Classifier/steelsurface_classification_xai.ipynb
 
 ### 2 Iris / Credit Risk / Heart Disease Classification

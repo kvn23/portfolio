@@ -65,5 +65,8 @@ Model Purpose:
 
 Main libraries: Tensorflow, Keras, Scikit-Learn
 
+**Jupyter Notebooks:**
+- [Predicting Remaining Useful Life of a Turbofan Engine with a Tensorflow *CNN*]()
+- [Predicting Remaining Useful Life of a Turbofan Engine with Scikit-Learn *Regressors*]()
 ---
 

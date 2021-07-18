@@ -12,8 +12,8 @@ Dataset(s):
 - [Steel Plates Faults Data Set](http://archive.ics.uci.edu/ml/datasets/steel+plates+faults)
 
 Model Purpose:
-- Classify different steel surface defects.
-- Offer explanations for classifications.
+- Classify different steel surface defects
+- Offer explanations for classifications
 
 Main libraries: Scikit-Learn, SHAP, LIME, Anchors (alibi)
 

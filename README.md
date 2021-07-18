@@ -58,7 +58,7 @@ Main libraries: Scikit-Learn, CatBoost, SHAP, LIME, Anchors (alibi), Counterfact
 This was one of the first datasets and machine learning projects I personally ever coded on. For a seminar thesis, my supervisor threw me in at the deep end by benchmarking different algorithms on this dataset. At the beginning of this project I barely knew how to code in Python, let alone building machine learning models. By the end, this project had gave me a glimpse into CNN and LSTM models, as well as handling time series data. In this, case i settled for the implementation of a CNN as proposed by [Xiang Li (2018)](https://www.sciencedirect.com/science/article/abs/pii/S0951832017307779).
 
 Dataset(s):
-- [Turbofan Engine Degradation Simulation Data Set][https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/]
+- [Turbofan Engine Degradation Simulation Data Set]:https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/
 
 Model Purpose:
 - Predict Remaining Useful Life of a Jet Engine

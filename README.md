@@ -16,8 +16,7 @@ Model Purpose:
 
 Main libraries: Scikit-Learn, SHAP, LIME, Anchors (alibi)
 
-Jupyter Notebook:
-- [Classifying Steel Surface Defects with Explanations][1]
+Jupyter Notebook: [Classifying Steel Surface Defects with Explanations][1]
 
 [1]:https://nbviewer.jupyter.org/github/kvn23/portfolio/blob/main/Steel%20Surface%20Defect%20Classifier/steelsurface_classification_xai.ipynb
 
@@ -37,12 +36,18 @@ Model Purpose:
 
 Main libraries: Scikit-Learn, CatBoost, SHAP, LIME, Anchors (alibi), Counterfactual Instances (alibi)
 
-**Jupyter Notebooks:**
-- (Explaining Iris Species Predictions with *Anchors*, *LIME* and *Counterfactual Instances*)[]
-- (Explaining Credit Risk Predictions with *Anchors* and *LIME*)[]
-- (Explaining Credit Risk Predictions with *Counterfactual Instances*)[]
-- (Explaining Heart Disease Predictions with *Anchors* and *LIME*)[]
-- (Explaining Heart Disease Predictions with *Counterfactual Instances*)[]
+Jupyter Notebooks:
+- [Explaining Iris Species Predictions with *Anchors*, *LIME* and *Counterfactual Instances*][1]
+- [Explaining Credit Risk Predictions with *Anchors* and *LIME*][2]
+- [Explaining Credit Risk Predictions with *Counterfactual Instances*][3]
+- [Explaining Heart Disease Predictions with *Anchors* and *LIME*][4]
+- [Explaining Heart Disease Predictions with *Counterfactual Instances*][5]
+
+[1]:
+[2]:
+[3]:
+[4]:
+[5]:
 
 ### 3  Turbofan Engine RUL prediction
 

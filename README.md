@@ -20,6 +20,8 @@ Main libraries: Scikit-Learn, SHAP, LIME, Anchors (alibi)
 
 [1]:https://nbviewer.jupyter.org/github/kvn23/portfolio/blob/main/Steel%20Surface%20Defect%20Classifier/steelsurface_classification_xai.ipynb
 
+---
+
 ### 2 Iris / Credit Risk / Heart Disease Classification
 
 Project Summary:
@@ -49,6 +51,8 @@ Main libraries: Scikit-Learn, CatBoost, SHAP, LIME, Anchors (alibi), Counterfact
 [5]:https://nbviewer.jupyter.org/github/kvn23/portfolio/blob/main/ML%20Prediction%20Explainers/Heart%20Disease_AnchorsLime.ipynb
 [6]:https://nbviewer.jupyter.org/github/kvn23/portfolio/blob/main/ML%20Prediction%20Explainers/Heart%20Disease_Counterfactuals.ipynb
 
+---
+
 ### 3  Turbofan Engine RUL prediction
 
 Project Summary:
@@ -61,4 +65,6 @@ Model Purpose:
 - Predict Remaining Useful Life of a Jet Engine
 
 Main libraries: Tensorflow, Keras
+
+---
 

@@ -37,17 +37,17 @@ Model Purpose:
 Main libraries: Scikit-Learn, CatBoost, SHAP, LIME, Anchors (alibi), Counterfactual Instances (alibi)
 
 Jupyter Notebooks:
-- [Explaining Iris Species Predictions with *Anchors*, *LIME* and *Counterfactual Instances*][1]
-- [Explaining Credit Risk Predictions with *Anchors* and *LIME*][2]
-- [Explaining Credit Risk Predictions with *Counterfactual Instances*][3]
-- [Explaining Heart Disease Predictions with *Anchors* and *LIME*][4]
-- [Explaining Heart Disease Predictions with *Counterfactual Instances*][5]
+- [Explaining Iris Species Predictions with *Anchors*, *LIME* and *Counterfactual Instances*][2]
+- [Explaining Credit Risk Predictions with *Anchors* and *LIME*][3]
+- [Explaining Credit Risk Predictions with *Counterfactual Instances*][4]
+- [Explaining Heart Disease Predictions with *Anchors* and *LIME*][5]
+- [Explaining Heart Disease Predictions with *Counterfactual Instances*][6]
 
-[1]:
-[2]:
-[3]:
-[4]:
-[5]:
+[2]:https://nbviewer.jupyter.org/github/kvn23/portfolio/blob/main/ML%20Prediction%20Explainers/iris_classification_xai.ipynb
+[3]:https://nbviewer.jupyter.org/github/kvn23/portfolio/blob/main/ML%20Prediction%20Explainers/credit_risk_anchors_lime.ipynb
+[4]:https://nbviewer.jupyter.org/github/kvn23/portfolio/blob/main/ML%20Prediction%20Explainers/credit_risk_counterfactuals.ipynb
+[5]:https://nbviewer.jupyter.org/github/kvn23/portfolio/blob/main/ML%20Prediction%20Explainers/Heart%20Disease_AnchorsLime.ipynb
+[6]:https://nbviewer.jupyter.org/github/kvn23/portfolio/blob/main/ML%20Prediction%20Explainers/Heart%20Disease_Counterfactuals.ipynb
 
 ### 3  Turbofan Engine RUL prediction
 

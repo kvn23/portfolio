@@ -67,6 +67,6 @@ Main libraries: Tensorflow, Keras, Scikit-Learn
 
 **Jupyter Notebooks:**
 - [Predicting Remaining Useful Life of a Turbofan Engine with a Tensorflow *CNN*](https://nbviewer.jupyter.org/github/kvn23/portfolio/blob/main/Turbofan/Turbofan%20RUL%20Prediction.ipynb)
-- [Predicting Remaining Useful Life of a Turbofan Engine with Scikit-Learn *Regressors*](https://nbviewer.jupyter.org/github/kvn23/portfolio/blob/main/Turbofan/FD001_scikit_regressors.ipynb)(NB not executed due to very long computing time)
+- [Predicting Remaining Useful Life of a Turbofan Engine with Scikit-Learn *Regressors*](https://nbviewer.jupyter.org/github/kvn23/portfolio/blob/main/Turbofan/FD001_scikit_regressors.ipynb) (NB not executed due to very long computing time)
 ---
 

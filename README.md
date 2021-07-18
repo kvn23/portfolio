@@ -20,8 +20,6 @@ Main libraries: Scikit-Learn, SHAP, LIME, Anchors (alibi)
 
 [1]:https://nbviewer.jupyter.org/github/kvn23/portfolio/blob/main/Steel%20Surface%20Defect%20Classifier/steelsurface_classification_xai.ipynb
 
-
-
 ### 2 Iris / Credit Risk / Heart Disease Classification
 
 Project Summary:
@@ -38,12 +36,12 @@ Model Purpose:
 
 Main libraries: Scikit-Learn, CatBoost, SHAP, LIME, Anchors (alibi), Counterfactual Instances (alibi)
 
-Jupyter Notebooks:
-- [Explaining Iris Species Predictions with *Anchors*, *LIME* and *Counterfactual Instances*][2]
-- [Explaining Credit Risk Predictions with *Anchors* and *LIME*][3]
-- [Explaining Credit Risk Predictions with *Counterfactual Instances*][4]
-- [Explaining Heart Disease Predictions with *Anchors* and *LIME*][5]
-- [Explaining Heart Disease Predictions with *Counterfactual Instances*][6]
+**Jupyter Notebooks:
+- **[Explaining Iris Species Predictions with *Anchors*, *LIME* and *Counterfactual Instances*][2]**
+- **[Explaining Credit Risk Predictions with *Anchors* and *LIME*][3]**
+- **[Explaining Credit Risk Predictions with *Counterfactual Instances*][4]**
+- **[Explaining Heart Disease Predictions with *Anchors* and *LIME*][5]**
+- **[Explaining Heart Disease Predictions with *Counterfactual Instances*][6]**
 
 [2]:https://nbviewer.jupyter.org/github/kvn23/portfolio/blob/main/ML%20Prediction%20Explainers/iris_classification_xai.ipynb
 [3]:https://nbviewer.jupyter.org/github/kvn23/portfolio/blob/main/ML%20Prediction%20Explainers/credit_risk_anchors_lime.ipynb
